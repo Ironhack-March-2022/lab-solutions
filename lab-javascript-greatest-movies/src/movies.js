@@ -10,7 +10,6 @@ function getAllDirectors(movies) {
   // using a set and the spread operator
   return [...new Set(directors)];
 }
-
 // Bonus filter out the duplicates
 
 // Iteration 2: Steven Spielberg. The best? - How many movies did STEVEN SPIELBERG direct
